@@ -21,7 +21,7 @@
  }
 
  main {
-   background: url(img/background.svg) no-repeat center/cover;
+   background: url(../img/background.svg) no-repeat center/cover;
    width: 100vw;
    min-height: 812px;
    height: 100vh;
@@ -92,7 +92,7 @@
    }
 
    main {
-     background: url(img/crachazin.svg) no-repeat center;
+     background: url(../img/crachazin.svg) no-repeat center;
      position: relative;
    }
 
